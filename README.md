@@ -28,7 +28,7 @@ The analysis revealed a correlation between mileage, the number of owners, and c
 
 
 
-[Cars24.Com Queries.pdf](https://github.com/Benadine30/Exploration-of-Cars24.com-data/files/12168694/Cars24.Com.Queries.pdf)
+
 
 
 
