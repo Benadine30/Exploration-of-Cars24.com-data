@@ -13,7 +13,7 @@ This analysis aimed to find out the type of used cars people like to buy, cars t
 📍 Analysis of the transmission column reveals that manual cars are the most listed and sought after, it made up 80.54% of the total cars.
 📍 Cars with low mileage have fewer no owners and they cost more
 
-**RECOMMENDATIONS:**![1689760543618](https://github.com/Benadine30/Exploration-of-Cars24.com-data/assets/105176448/63b53ac9-ad73-40f8-be08-e197108924ec)
+**RECOMMENDATIONS:**
 
 📌 Focus on Petrol and Manual Cars: Since petrol cars make up 80.01% of the cars listed on cars24 and manual cars make up 80.54% of the total cars, it is clear that there is a significant demand for petrol cars in the used car market. They should emphasize showcasing petrol cars and highlight their advantages such as better fuel efficiency and lower maintenance costs. This can attract a larger pool of potential buyers and drive more sales.
 
@@ -21,3 +21,7 @@ This analysis aimed to find out the type of used cars people like to buy, cars t
 The analysis revealed a correlation between mileage, the number of owners, and car prices. Cars with low mileage and fewer owners tend to command higher prices. They should take this into account when pricing their inventory.
 
 📌 As hatchback cars have shown high demand and longevity, it would be wise to stock a variety of hatchback models (like Maruti Swift) to cater to the preferences of potential buyers.
+
+![1689760543618](https://github.com/Benadine30/Exploration-of-Cars24.com-data/assets/105176448/f2921686-b857-4abe-915a-5929aa9feaa0)
+
+
